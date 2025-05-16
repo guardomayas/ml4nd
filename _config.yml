@@ -13,7 +13,7 @@ execute:
     - '04_glms.ipynb'
     - '05_decoding.ipynb'
     - '06_arhmm.ipynb'
-    - '07_slds.ipynb'
+    - '07_vem.ipynb'
     - '08_lfads.ipynb'
     - '02_probabilistic_modeling.ipynb'
     - '03_neurobio.ipynb'
